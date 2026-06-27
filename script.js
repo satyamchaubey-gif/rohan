@@ -80,7 +80,7 @@ function renderBirthday(){
       <p class="quote">TO MY FOREVER BESTIE, you're not just my friend — you are my favourite person, my secret keeper and my biggest support. Life feels brighter, funnier and so much better with you in it. No matter what happens, we will stick together. Thank you for all the laughs, memories and crazy moments we share. I am happy to have you forever.</p>
       <div class="btns"><button onclick="document.querySelector('#memories').scrollIntoView({behavior:'smooth'})">See Memories 💌</button></div>
     </div>
-    <img class="collage" src="collage.png" alt="Birthday Collage">
+    <img class="collage" src="collage.jpeg" alt="Birthday Collage">
   </div></section>
   <section id="memories" class="screen"><div class="card">
     <h2 class="memory-title">Beautiful Memory Wall 🌸</h2>
